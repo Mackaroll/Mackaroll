@@ -1,2 +1,2 @@
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/mackaroll"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mackaroll" /></a></p><br><br>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee!', '#e74c3c', 'X8X3NE426');kofiwidget2.draw();</script> 
